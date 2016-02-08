@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microchip.SAML.IDPLibrary", "Microchip.SAML.IDPLibrary\Microchip.SAML.IDPLibrary.csproj", "{1E0DBE47-2372-4EFE-8CAD-B863531DEAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityProvider", "IdentityProvider\IdentityProvider.csproj", "{979B6012-5C5A-42CB-876C-D36DE8FE31F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0DBE47-2372-4EFE-8CAD-B863531DEAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0DBE47-2372-4EFE-8CAD-B863531DEAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0DBE47-2372-4EFE-8CAD-B863531DEAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0DBE47-2372-4EFE-8CAD-B863531DEAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979B6012-5C5A-42CB-876C-D36DE8FE31F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979B6012-5C5A-42CB-876C-D36DE8FE31F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979B6012-5C5A-42CB-876C-D36DE8FE31F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979B6012-5C5A-42CB-876C-D36DE8FE31F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
